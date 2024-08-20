@@ -1,5 +1,5 @@
 # About Me:
-I am Nicolás Catania, a future Informatic Engineer from Argentina, currently studying at the Universidad Nacional de La Matanza with nearly 50% of my degree completed. Passionate about technology, artificial intelligence, and data analysis. Outside of academia, I enjoy hitting the gym and playing the guitar.
+I am Nicolás Catania, a future Informatic Engineer from Argentina, currently studying at the Universidad Nacional de La Matanza with nearly 50% of my degree completed. I enjoy hitting the gym and playing the guitar.
 
 
 ## 🌐 Socials:
