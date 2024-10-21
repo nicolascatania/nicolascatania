@@ -1,6 +1,7 @@
 # About Me:
 I am Nicolás Catania, a future Informatic Engineer from Argentina, currently studying at the Universidad Nacional de La Matanza with nearly 50% of my degree completed. My expertise lies in C programming and software design, and I'm currently deepening my knowledge in advanced Java and SpringBoot plus basic Angular.
-Outside of tech, I enjoy going to the gym and playing the guitar.
+
+Outside of tech, I enjoy going to the gym, playing the guitar and learning new languages.
 
 
 ## 🌐 Socials:
