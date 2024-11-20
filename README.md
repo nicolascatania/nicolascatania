@@ -8,8 +8,30 @@ Outside of tech, I enjoy going to the gym, playing the guitar and learning new l
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ncatania1/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26628924) 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white
-) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
+![Java 21](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white) 
+![Angular 18](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![Algorithms](https://img.shields.io/badge/algorithms-%23000000.svg?style=flat&logo=algorithm&logoColor=white) 
+![Data Structures](https://img.shields.io/badge/data%20structures-%23000000.svg?style=flat&logo=algorithm&logoColor=white)
+![OOP](https://img.shields.io/badge/oop-%23000000.svg?style=flat&logo=java&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
+![MSSQL](https://img.shields.io/badge/microsoft_sql_server-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white) 
+![Junit 5](https://img.shields.io/badge/junit%205-%23F05133.svg?style=flat&logo=junit&logoColor=white) 
+![Unit Testing](https://img.shields.io/badge/unit_testing-%23000000.svg?style=flat&logo=java&logoColor=white) 
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=flat&logo=linux&logoColor=white) 
+![Microsoft Office](https://img.shields.io/badge/microsoft_office-%23D83B01.svg?style=flat&logo=microsoft-office&logoColor=white) 
+![Systems Analysis](https://img.shields.io/badge/systems_analysis-%23000000.svg?style=flat&logo=diagram&logoColor=white) 
+![UML](https://img.shields.io/badge/uml-%23000000.svg?style=flat&logo=uml&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/intellij%20idea-%23000000.svg?style=flat&logo=intellijidea&logoColor=white) 
+![VS Code](https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white) 
+![Eclipse IDE](https://img.shields.io/badge/eclipse%20ide-%23F4F1F1.svg?style=flat&logo=eclipse&logoColor=white) 
+![English](https://img.shields.io/badge/english-%2318A4B3.svg?style=flat&logo=language&logoColor=white) 
+![Spanish](https://img.shields.io/badge/spanish-%23E63946.svg?style=flat&logo=language&logoColor=white)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
