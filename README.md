@@ -3,6 +3,8 @@ I am Nicolás Catania, a future Informatic Engineer from Argentina, currently st
 
 Outside of tech, I enjoy going to the gym, playing the guitar and learning new languages.
 
+## Cv:
+[Download my CV](./catania_nicolas_english_cv.pdf)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ncatania1/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26628924) 
