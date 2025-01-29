@@ -26,6 +26,7 @@ Outside of tech, I enjoy going to the gym, playing the guitar and learning new l
 ### Databases:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
 ![MSSQL](https://img.shields.io/badge/microsoft_sql_server-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
 
 ### Algorithms & Data Structures:
 ![Algorithms](https://img.shields.io/badge/algorithms-%23000000.svg?style=flat&logo=algorithm&logoColor=white) 
