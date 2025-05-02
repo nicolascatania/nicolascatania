@@ -1,10 +1,9 @@
 # About Me:
-I am Nicolás Catania, a future Informatic Engineer from Argentina, currently studying at the Universidad Nacional de La Matanza with nearly 50% of my degree completed. My expertise lies in C programming and software design, and I'm currently deepening my knowledge in advanced Java and SpringBoot plus basic Angular.
+I am Nicolás Catania, a future Informatic Engineer from Argentina, currently studying at the Universidad Nacional de La Matanza with nearly 50% of my degree completed. My expertise lies in Java 21, Spring, Angular, C and software design, and I'm currently working as a junior full stack web developer at NetOne.
 
 Outside of tech, I enjoy going to the gym, playing the guitar and learning new languages.
 ### My porfolio: 
 https://porfolio-blush-omega.vercel.app/
-Still on development, only missing some features like theme picking and animations.
 ## Cv:
 [Download my CV](./Catania_Nicolas_english_cv.pdf)
 
