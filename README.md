@@ -41,11 +41,6 @@ https://porfolio-blush-omega.vercel.app/
 
 # 🛠️ Tools:
 
-### Development & IDEs:
-![IntelliJ IDEA](https://img.shields.io/badge/intellij%20idea-%23000000.svg?style=flat&logo=intellijidea&logoColor=white) 
-![VS Code](https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white) 
-![Eclipse IDE](https://img.shields.io/badge/eclipse%20ide-%23F4F1F1.svg?style=flat&logo=eclipse&logoColor=white)
-
 ### Version Control:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
@@ -53,8 +48,6 @@ https://porfolio-blush-omega.vercel.app/
 ### OS & Environment:
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=flat&logo=linux&logoColor=white) 
 
-### Productivity:
-![Microsoft Office](https://img.shields.io/badge/microsoft_office-%23D83B01.svg?style=flat&logo=microsoft-office&logoColor=white)
 
 ---
 
