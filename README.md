@@ -22,7 +22,7 @@ https://porfolio-blush-omega.vercel.app/
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
 ### Backend:
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/springboot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)
 
 ### Databases:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
