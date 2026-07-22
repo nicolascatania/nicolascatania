@@ -1,67 +1,62 @@
-# About Me:
-I am Nicolás Catania, a future Informatic Engineer from Argentina, currently studying at the Universidad Nacional de La Matanza with 60% of my degree completed. My expertise lies in Java 21, Spring, Angular, C and software design, and I'm currently working as a junior full stack web developer at NetOne.
+<div align="center">
 
-Outside of tech, I enjoy going to the gym, playing the guitar and learning new languages.
-### My porfolio: 
-[Click here!](https://nicolascatania.dev/)
-## Cv:
-[Download my CV](./Catania_Nicolas_english_cv.pdf)
+# Nicolás Catania
+### Junior Full Stack Developer | Computer Engineering Student
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ncatania1/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nicolascatania.dev-000000?style=flat&logo=Vercel&logoColor=white)](https://nicolascatania.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ncatania1/)
+[![CV](https://img.shields.io/badge/Download-CV-18A4B3?style=flat&logo=adobeacrobatreader&logoColor=white)](./Catania_Nicolas_english_cv.pdf)
 
-# 💻 Tech Stack:
-
-### Programming Languages:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
-![Java 21](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-
-### Frontend:
-![Angular 18](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-
-### Backend:
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)
-
-### Databases:
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
-![MSSQL](https://img.shields.io/badge/microsoft_sql_server-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
-
-### Algorithms & Data Structures:
-![Algorithms](https://img.shields.io/badge/algorithms-%23000000.svg?style=flat&logo=algorithm&logoColor=white) 
-![Data Structures](https://img.shields.io/badge/data%20structures-%23000000.svg?style=flat&logo=algorithm&logoColor=white)
-
-### Software Design & Architecture:
-![OOP](https://img.shields.io/badge/oop-%23000000.svg?style=flat&logo=java&logoColor=white) 
-![UML](https://img.shields.io/badge/uml-%23000000.svg?style=flat&logo=uml&logoColor=white)
+</div>
 
 ---
 
-# 🛠️ Tools:
+## 👨‍💻 About Me
 
-### Version Control:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+Computer Engineering student at the **Universidad Nacional de La Matanza** (UNLaM) and full stack developer with hands-on experience in Java, Spring Boot, and Angular. Passionate about software architecture, code quality, and continuous improvement.
 
-### OS & Environment:
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=flat&logo=linux&logoColor=white) 
-
+* **Technical Interests:** Java 21, Modular Architecture, and Best Practices.
+* **Hobbies:** Weightlifting, playing the guitar, and language learning.
 
 ---
 
-# 🧪 Testing:
-![Junit 5](https://img.shields.io/badge/junit%205-%23F05133.svg?style=flat&logo=junit&logoColor=white) 
-![Mockito](https://img.shields.io/badge/mockito-%23000000.svg?style=flat&logo=java&logoColor=white)
+## 🛠️ Tech Stack
+
+### Backend & Core
+[![Java 21](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/)
+[![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+
+### Frontend
+[![Angular](https://img.shields.io/badge/Angular_18-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.io/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/)
+
+### Databases
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MSSQL](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
+
+### Testing & Quality
+[![JUnit 5](https://img.shields.io/badge/JUnit_5-F05133?style=flat-square&logo=junit5&logoColor=white)](https://junit.org/junit5/)
+[![Mockito](https://img.shields.io/badge/Mockito-787CB5?style=flat-square&logo=java&logoColor=white)](https://site.mockito.org/)
+
+### Architecture & Principles
+[![OOP](https://img.shields.io/badge/OOP-000000?style=flat-square&logo=codeforces&logoColor=white)]()
+[![UML](https://img.shields.io/badge/UML-000000?style=flat-square&logo=uml&logoColor=white)]()
+[![Algorithms](https://img.shields.io/badge/Algorithms-000000?style=flat-square&logo=databricks&logoColor=white)]()
 
 ---
 
-# 🌍 Languages:
-![English](https://img.shields.io/badge/english-%2318A4B3.svg?style=flat&logo=language&logoColor=white) 
-![Spanish](https://img.shields.io/badge/spanish-%23E63946.svg?style=flat&logo=language&logoColor=white)
+## ⚙️ Environment & Tools
 
+[![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org/)
 
+---
 
+## 🌍 Languages
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+* **Spanish:** Native
+* **English:** Professional / Technical
