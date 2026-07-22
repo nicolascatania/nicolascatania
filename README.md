@@ -8,7 +8,7 @@ Outside of tech, I enjoy going to the gym, playing the guitar and learning new l
 [Download my CV](./Catania_Nicolas_english_cv.pdf)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ncatania1/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26628924) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ncatania1/)
 
 # 💻 Tech Stack:
 
