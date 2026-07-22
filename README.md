@@ -20,6 +20,17 @@ Computer Engineering student at the **Universidad Nacional de La Matanza** (UNLa
 
 ---
 
+## 💼 Experience
+
+### **Polo Tecnológico - UNLaM** | Technology Fellow / Backend Developer
+* Actively engineering brand-new production features end-to-end (from analysis and design to development and testing) on a modern ERP platform based on Spring Boot, Angular, and MySQL.
+* Participated from day one in migrating the legacy ERP Netegia 3.0 (built with Java Servlets) to Netegia 4.0, transitioning into the modern technology stack through legacy code analysis and core process optimization.
+* Designed and built a secure, public-facing REST API from scratch using JWT authentication, Bucket4j rate limiting, RFC 9457 centralized error handling, and OpenAPI/Swagger documentation.
+* Integrated third-party services including Tiendanube's external API and implemented scheduled task management (cron jobs).
+* Closely collaborating within a multidisciplinary development team, managing branches and version control using Git under an agile, high-quality workflow.
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Backend & Core
