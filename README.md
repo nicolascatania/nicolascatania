@@ -53,7 +53,7 @@ Outside of tech, I enjoy going to the gym, playing the guitar and learning new l
 
 # 🧪 Testing:
 ![Junit 5](https://img.shields.io/badge/junit%205-%23F05133.svg?style=flat&logo=junit&logoColor=white) 
-![Unit Testing](https://img.shields.io/badge/unit_testing-%23000000.svg?style=flat&logo=java&logoColor=white)
+![Mockito](https://img.shields.io/badge/mockito-%23000000.svg?style=flat&logo=java&logoColor=white)
 
 ---
 
