@@ -3,7 +3,7 @@ I am Nicolás Catania, a future Informatic Engineer from Argentina, currently st
 
 Outside of tech, I enjoy going to the gym, playing the guitar and learning new languages.
 ### My porfolio: 
-https://porfolio-blush-omega.vercel.app/
+[Click here!](https://nicolascatania.dev/)
 ## Cv:
 [Download my CV](./Catania_Nicolas_english_cv.pdf)
 
