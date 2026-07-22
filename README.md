@@ -1,5 +1,5 @@
 # About Me:
-I am Nicolás Catania, a future Informatic Engineer from Argentina, currently studying at the Universidad Nacional de La Matanza with nearly 50% of my degree completed. My expertise lies in Java 21, Spring, Angular, C and software design, and I'm currently working as a junior full stack web developer at NetOne.
+I am Nicolás Catania, a future Informatic Engineer from Argentina, currently studying at the Universidad Nacional de La Matanza with 60% of my degree completed. My expertise lies in Java 21, Spring, Angular, C and software design, and I'm currently working as a junior full stack web developer at NetOne.
 
 Outside of tech, I enjoy going to the gym, playing the guitar and learning new languages.
 ### My porfolio: 
